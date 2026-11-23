@@ -1,0 +1,7 @@
+interface:
+  display_name: "树影风景拼贴"
+  short_description: "固定枯树骨架，智能挑片、裁切、配色并合成竖版风景拼贴"
+  default_prompt: "使用 $tree-scape-collage 把我上传的风景照片拼成枯树窗格式海报。"
+
+policy:
+  allow_implicit_invocation: true
