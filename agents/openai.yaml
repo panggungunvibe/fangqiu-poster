@@ -1,6 +1,6 @@
 interface:
-  display_name: "风景册"
-  short_description: "把风景照片排成多彩、三色两张选款概览，选定一款后制作高清海报"
+  display_name: "风景照生成海报"
+  short_description: "用一张风景照生成多彩、三色各 12 款候选，选中一款即可获得高清海报"
   brand_color: "#C96F35"
   default_prompt: "使用 $fangqiu-poster 把我上传的风景照做成多彩、三色两张选款概览，等我选中一格再做高清海报。"
 
