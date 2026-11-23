@@ -1,8 +1,8 @@
 interface:
   display_name: "风景册"
-  short_description: "从四季风景与街景照片的结构出发选款、排字和制作海报"
+  short_description: "把风景照片排成多彩、三色两张选款概览，选定一款后制作高清海报"
   brand_color: "#C96F35"
-  default_prompt: "使用 $fangqiu-poster 把我上传的风景照片做成一张海报。"
+  default_prompt: "使用 $fangqiu-poster 把我上传的风景照做成多彩、三色两张选款概览，等我选中一格再做高清海报。"
 
 policy:
   allow_implicit_invocation: true
