@@ -1,8 +1,8 @@
 interface:
-  display_name: "访秋海报"
-  short_description: "用照片生成可扩展的系列化艺术海报，当前支持树影风景拼贴"
+  display_name: "风景册"
+  short_description: "从四季风景与街景照片的结构出发选款、排字和制作海报"
   brand_color: "#C96F35"
-  default_prompt: "使用 $fangqiu-poster 把我上传的照片制作成访秋海报。"
+  default_prompt: "使用 $fangqiu-poster 把我上传的风景照片做成一张海报。"
 
 policy:
   allow_implicit_invocation: true
